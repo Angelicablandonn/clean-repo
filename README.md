@@ -83,7 +83,6 @@ written to `test-results/` and attached to the HTML report automatically.
 │   └── edge-cases.spec.ts    # problem_user + performance_glitch_user
 ├── utils/
 │   └── test-data.ts          # users, password, shared data
-├── llm-prompts.md
 └── README.md
 ```
 
