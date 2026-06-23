@@ -1,0 +1,11 @@
+node_modules/
+test-results/
+playwright-report/
+playwright/.cache/
+.auth/
+dist/
+*.log
+.DS_Store
+
+# Reportes y artefactos generados
+*.txt
